@@ -14,4 +14,4 @@ Además, dado que Laboratoria tiene muchas generaciones, regularmente 2 generaci
 ### RESULTADO
 En esta visualización se muestra datos generales desde un menú local, pero en la parte superior quien inició sesión puede eleguir mediante un menú la sede o promoción que sea de su interés.
 
-[sketch](assets/images/sketch.jpeg)
+![sketch](assets/images/sketch.jpeg)
